@@ -3,12 +3,15 @@ module.exports = {
     {
       resolve: `gatsby-theme-garden`,
       options: {
-        contentPath: `${__dirname}/content/garden`,
-        rootNote: `/hello`,
+        contentPath: `${__dirname}/notes`,
+        rootNote: `/index`,
+        parseWikiLinks: true,
       },
-    },
+    }
   ],
   siteMetadata: {
-    title: `Site title`,
-  },
+    title: `@amit's notes`,
+    author: "Amit Gawande",
+    description: "Notes on my unformed thoughts.",
+  }
 }

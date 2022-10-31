@@ -1,17 +1,24 @@
 {
-  "name": "gatsby-starter-digital-garden",
+  "name": "sn-second-brain",
   "private": true,
-  "version": "0.0.1",
+  "description": "Gatsby based Digital Garden for Amit Gawande",
+  "version": "1.0.0",
+  "author": "Amit Gawande <amit.w.gawande@gmail.com>",
   "scripts": {
-    "develop": "gatsby develop",
-    "start": "gatsby develop",
-    "build": "gatsby build",
-    "clean": "gatsby clean"
+    "develop": "export NODE_OPTIONS=--openssl-legacy-provider; gatsby develop",
+    "start": "export NODE_OPTIONS=--openssl-legacy-provider; gatsby develop",
+    "build": "export NODE_OPTIONS=--openssl-legacy-provider; gatsby build",
+    "clean": "export NODE_OPTIONS=--openssl-legacy-provider; gatsby clean"
   },
   "dependencies": {
     "gatsby": "^2.21.37",
     "gatsby-theme-garden": "^0.1.1",
     "react": "^16.12.0",
     "react-dom": "^16.12.0"
-  }
+  },
+  "keywords": [
+    "gatsby"
+  ],
+  "license": "MIT",
+  "main": "n/a"
 }
