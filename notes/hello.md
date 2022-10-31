@@ -8,7 +8,7 @@ title: Amit's Second Brain
 
 You've stumbled onto my wiki. There are other trending names for such a space, [[digital garden]] 🌱 or second brain 🧠. So, call it what you like. I use this site for capturing my unformed thoughts, scribbles or notes if you like, hence the title.
 
-<p style="padding: 20px 10px; background: #f5f7ff; border-radius: 4px;">
+<p style="padding: 20px 10px; background: #f5f7ff; color:#1a202c; border-radius: 4px;">
   Take a look at <span style="font-weight: bold">[[my first note]]</span> to see where I started with this space.
 </p>
 

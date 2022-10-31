@@ -15,7 +15,7 @@ A beauty is this was written first in Notion and exported to Obsidian. I like th
 
 Uses Jekyll, Netlify and Obsidian. Possibly will follow this as part of my wish to get a digital garden setup. This was an easier setup -- I have got a running digital garden in place now. Idea is to explore this and see if this sticks.
 
-One point that did fail was the local setup. My [[experiements with ruby|experiements with Ruby]] aren't going well. Here's what I have written during my experiments.
+One point that did fail was the local setup. My [[experiments with ruby|experiments with Ruby]] aren't going well. Here's what I have written during my experiments.
 
 > This language beffudles me. It breaks at so many points, especially versions and dependency management.
 

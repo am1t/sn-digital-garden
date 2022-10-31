@@ -74,7 +74,7 @@ If you'd like to quote other people, consider using quote blocks:
 
 And of course, images look great:
 
-<img src="static/images/image.jpg"/>
+<img src="images/image.jpg"/>
 
 You can also <mark>highlight some content</mark> by wrapping it with `<mark>`.
 
