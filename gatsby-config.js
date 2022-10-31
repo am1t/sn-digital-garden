@@ -4,7 +4,7 @@ module.exports = {
       resolve: `gatsby-theme-garden`,
       options: {
         contentPath: `${__dirname}/notes`,
-        rootNote: `/index`,
+        rootNote: `/hello`,
         parseWikiLinks: true,
       },
     }
