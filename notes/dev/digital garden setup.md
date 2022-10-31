@@ -7,6 +7,8 @@ tag: dev
 
 As part of the whole [[digital garden]] exploration, one big point was how do I publish the thoughts and make them available on the web? For example, as referenced in [[my first note]]. Here are some references that I found online.
 
+I have setup this digital garden with Gatsby, using the theme by Mathieu Dutour. It is heavily inspired by [Andy's working notes](https://notes.andymatuschak.org/About_these_notes). Andy's notes is what I intend to explore the most. The source for this is available [at GitHub](https://github.com/am1t/sn-digital-garden).
+
 A beauty is this was written first in Notion and exported to Obsidian. I like that.
 
 ---

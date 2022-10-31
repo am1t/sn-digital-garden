@@ -19,6 +19,7 @@ My idea is to move, have fun, and learn new something every day! ✌🏽
 Following directories and their contents are copyright Amit Gawande. You may not reuse anything therein without my permission:
 
 notes/
+
 static/
 
 All other directories and files are [MIT Licensed](LICENSE.md) (where applicable).
