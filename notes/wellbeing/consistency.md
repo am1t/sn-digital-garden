@@ -5,4 +5,4 @@ tag: productivity
 
 Show up. Do the work. Be consistent.
 
-Then go take a look at the [[my-first-note|first note]].
+Then go take a look at [[my first note]].
