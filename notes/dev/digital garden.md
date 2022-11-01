@@ -25,6 +25,7 @@ Here are some nice write-ups on the concept that I plan to go through.
 - [Of Digital Streams, Campfires and Gardens](https://tomcritchlow.com/2018/10/10/of-gardens-and-wikis/)
 - [My blog is my digital garden](https://joelhooks.com/digital-garden)
 - [You and your mind garden](https://nesslabs.com/mind-garden)
+- [Tools and Resources](https://github.com/MaggieAppleton/digital-gardeners)
 
 I will capture what I find in this space and add some more of my own thoughts on this curious concept. A place holder till then.
 

@@ -8,10 +8,8 @@ title: Amit's Second Brain
 
 You've stumbled onto my wiki. There are other trending names for such a space, [[digital garden]] 🌱 or second brain 🧠. So, call it what you like. I use this site for capturing my unformed thoughts, scribbles or notes if you like, hence the title.
 
-<p style="padding: 20px 10px; background: #f5f7ff; color:#1a202c; border-radius: 4px;">
-  Take a look at my first note to see where I started with this space.
-</p>
+The posts in here aren't fully baked -- I like the term working notes that I have read at a few places. I post what I like or what I am thinking of. There's no cohesion, no index for any of these. When it grows too huge, I may add a few links to this index note.
 
-You are free to poke around. Get a peek on what am working on or busy with. What's the best way to navigate this space you say? Well, that's to come. But you can start with [[my first note]] or my notes on this [[digital garden setup]]. From there, you can click on anything that you find interesting.
+What's the best way to navigate this space then, you ask? Well, there's none. You are free to poke around, get a peek at what am working on or busy with. But you can start with [[my first note]] that captures my struggles as I began this journey or my notes on this [[digital garden setup]]. From there, you can click on anything that you find interesting.
 
-My idea is to move, have fun, and learn new something every day! ✌🏽
+My idea is to create, have fun, and learn new something every day! ✌🏽
