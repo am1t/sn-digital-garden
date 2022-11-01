@@ -7,7 +7,7 @@ tag: dev
 
 The concept of digital gardens have always impressed me. I love what people do with such a space. Many use it as a wiki, a pool of what they learn. A few use it as scratchpad for their projects. Others use it just like a blog.
 
-I like to think of this as a wiki -- another extension of the same concept is around second brain. Digital garden, for me, is garden of thoughts moved from the original (physical) brain to a digital space. Some are healthy. Others are just great to look at. Some are fully grown. Others are work in progress.
+I like to think of this as a wiki -- another extension of the same concept is around second brain. Digital garden, for me, is a place where thoughts grow, where they move from the original (physical) brain to a digital space. Some are healthy. Others are just great to look at. Some are fully grown. Others are work in progress.
 
 This tweet from [Maggie Appleton (@Mappletons)](https://twitter.com/Mappletons/status/1250532315459194880) lists some of the most wonderful implementations of the digital gardens.
 
@@ -22,12 +22,14 @@ Here's a list of some inspirational examples of digital gardens and their introd
 I am yet to get inspired from any of these. I will explore them and see how people are using them. 
 
 Here are some nice write-ups on the concept that I plan to go through.
+- [My blog is my digital garden](https://joelhooks.com/digital-garden) - Joel explains what his blog represents, not a collection of posts ordered reverse chronologically. But a carefully curated list of ideas that he builds over time. I like the this idea of a blog. In the traditional form, the best content gets lost. Only way the content is surfaced is through Google. Or other search engines. Can we add a layer of curation around that? For example, I loved how Joel added a link to another article to the end of this one.  
 - [Of Digital Streams, Campfires and Gardens](https://tomcritchlow.com/2018/10/10/of-gardens-and-wikis/)
-- [My blog is my digital garden](https://joelhooks.com/digital-garden)
 - [You and your mind garden](https://nesslabs.com/mind-garden)
+- [How the Blog Broke the Web](https://stackingthebricks.com/how-blogs-broke-the-web/)
+- [Building a Digital Garden](https://tomcritchlow.com/2019/02/17/building-digital-garden/)
 - [Tools and Resources](https://github.com/MaggieAppleton/digital-gardeners)
 
-I will capture what I find in this space and add some more of my own thoughts on this curious concept. A place holder till then.
+I will capture what I find in this space and add some more of my own thoughts on this curious concept. A place holder till then. Here are some of the [[best quotes on digital garden]] from more learned minds.
 
 ### Some quick notes on why, what and how
 
