@@ -58,10 +58,6 @@ If you'd like to quote other people, consider using quote blocks. Quote blocks a
 
 > Lorem ipsum dolor sit amet
 
-And of course, images look great:
-
-<img src="images/image.jpg"/>
-
 You can also <mark>highlight some content</mark> by wrapping it with `<mark>`.
 
 ### Code syntax highlighting
