@@ -1,5 +1,5 @@
 ---
-title: [Article] the Ecstasy of Influence, by Jonathan Lethem
+title: Ecstasy of Influence, by Jonathan Lethem
 ---
 # [Article] the Ecstasy of Influence, by Jonathan Lethem : Harper's Magazine
 
