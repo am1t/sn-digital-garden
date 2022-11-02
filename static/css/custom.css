@@ -1,0 +1,8 @@
+blockquote {
+    border-left: 2px solid #7b16ff;
+    margin: 16px 0 !important;
+    padding: 10px !important;
+}
+blockquote p {
+    margin-bottom: 0 !important;
+}
