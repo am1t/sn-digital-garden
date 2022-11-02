@@ -1,5 +1,5 @@
 ---
-title: Diana Athill: It’s Silly to Be Frightened of Being Dead
+title: Diana Athill It’s Silly to Be Frightened of Being Dead
 ---
 # Diana Athill: It’s Silly to Be Frightened of Being Dead
 

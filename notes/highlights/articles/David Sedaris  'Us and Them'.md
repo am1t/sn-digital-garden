@@ -1,5 +1,5 @@
 ---
-title: David Sedaris : 'Us and Them'
+title: David Sedaris 'Us and Them'
 ---
 # David Sedaris : 'Us and Them'
 

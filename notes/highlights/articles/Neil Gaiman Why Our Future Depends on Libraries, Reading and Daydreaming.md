@@ -1,5 +1,5 @@
 ---
-title: Neil Gaiman: Why Our Future Depends on Libraries, Reading and Daydreaming
+title: Neil Gaiman Why Our Future Depends on Libraries, Reading and Daydreaming
 ---
 # Neil Gaiman: Why Our Future Depends on Libraries, Reading and Daydreaming
 

@@ -1,5 +1,5 @@
 ---
-title: MY MANHATTAN; Not Just a Library, an Oasis of Civilization
+title: MY MANHATTAN Not Just a Library, an Oasis of Civilization
 ---
 # MY MANHATTAN; Not Just a Library, an Oasis of Civilization
 
