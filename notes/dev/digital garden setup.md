@@ -13,6 +13,17 @@ A beauty is this was written first in Notion and exported to Obsidian. I like th
 
 ---
 
+Recently, I also added a slight styling to the wiki -- mainly fixed the blockquotes. Well, Gatsby makes it a lot tricker than I thought. I knew including a custom CSS would be easier. However, getting it added to the header is not. The [official styling guide](https://www.gatsbyjs.com/docs/styling/) for a Gatsby site didn't help me much. I believe one of the reason for that is I don't understand this platform fully yet. I built something with it without learning it first. I would like to fix that. But with the list of things to learn growing, I need to prioritize better.
+
+Anyway back to adding external CSS to head, this [stacktrace discussion](https://stackoverflow.com/questions/46980140/how-to-use-global-css-style-sheet-includes-with-gatsbyjs) is finally what helped me. Here's what I had to do.
+
+- Create a `custom.css` with the required styling blocks and add the file to `static` directory.
+- Create a `gatsby-ssr.js` file in the root directory and regiatser a `setHeadComponents` adding a link for the style element.
+
+This was enough to resolve the problem -- so funny it took me so long to arrive at the solution.
+
+---
+
 [A Non-Technical Guide To Set Up Digital Garden With Obsidian For Free](https://beingpax.medium.com/a-non-technical-guide-to-set-up-digital-garden-with-obsidian-for-free-62d6df75553c)
 
 Uses Jekyll, Netlify and Obsidian. Possibly will follow this as part of my wish to get a digital garden setup. This was an easier setup -- I have got a running digital garden in place now. Idea is to explore this and see if this sticks.
