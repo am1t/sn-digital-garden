@@ -5,9 +5,11 @@ tag: dev
 
 # Exploring Digital Garden
 
-The concept of digital gardens have always impressed me. I love what people do with such a space. Many use it as a wiki, a pool of what they learn. A few use it as scratchpad for their projects. Others use it just like a blog.
+The concept of digital gardens have always impressed me. I love what people do with such a space. Many use it as a wiki, a pool of thoughts capturing what they learn. A few use it as a scratchpad for their projects. There are many who also use it just like a blog.
 
-I like to think of this as a wiki -- another extension of the same concept is around second brain. Digital garden, for me, is a place where thoughts grow, where they move from the original (physical) brain to a digital space. Some are healthy. Others are just great to look at. Some are fully grown. Others are work in progress.
+I like to think of this as a wiki -- an extension of the same concept around second brain. Digital garden, for me, is a place where thoughts grow, where they move from the original (physical) brain to a digital space. Some are healthy. Others are just great to look at. Some are fully grown. Others are work in progress.
+
+Why? Well, it goes back to my belief that [blogs are boring](https://write.as/am1t/blogs-have-made-the-web-boring). The list of posts displayed reverse chronologically doesn't help much. I've read many articles on how blogs and their typical homepage have ruined the web. Blogs have made words transient, instead they should be, in Andy Matuschak's words, evergreen. So here's an attempt to build such a system for myself.
 
 This tweet from [Maggie Appleton (@Mappletons)](https://twitter.com/Mappletons/status/1250532315459194880) lists some of the most wonderful implementations of the digital gardens.
 
@@ -21,11 +23,11 @@ Here's a list of some inspirational examples of digital gardens and their introd
 
 I am yet to get inspired from any of these. I will explore them and see how people are using them. 
 
-Here are some nice write-ups on the concept that I plan to go through.
+Here are some nice write-ups on the concept that I plan to go through with.
 - [My blog is my digital garden](https://joelhooks.com/digital-garden) - Joel explains what his blog represents, not a collection of posts ordered reverse chronologically. But a carefully curated list of ideas that he builds over time. I like the this idea of a blog. In the traditional form, the best content gets lost. Only way the content is surfaced is through Google. Or other search engines. Can we add a layer of curation around that? For example, I loved how Joel added a link to another article to the end of this one.  
+-  [How the Blog Broke the Web](https://stackingthebricks.com/how-blogs-broke-the-web/) - Amy Hoy remembers the good old days of early web. There were no blogs, no daily "web diaries". All posts were HTML pages, linked together onto a home page with a table of content built and maintained manually. Creating new posts wasn't easy, but it was fun. And because it wasn't easy, it wasn't done so very frequently. Over the years. this changed. In '94, [Juntin Hall](https://en.wikipedia.org/wiki/Justin_Hall) changed all this -- he [started writing](http://www.links.net/vita/web/start/) his daily diary entries publically, and stitching them together on the homepage with dates. That birthed an idea of making publishing easy, and Movable Type was the first known platform to support that. Soon, people stopped writing web pages and strted writing in the web page. In a form and text areas. Web was accessible for more people, but it became boring since then. A good write-up from Amy, got to know so much about pre-blog web.
 - [Of Digital Streams, Campfires and Gardens](https://tomcritchlow.com/2018/10/10/of-gardens-and-wikis/)
 - [You and your mind garden](https://nesslabs.com/mind-garden)
-- [How the Blog Broke the Web](https://stackingthebricks.com/how-blogs-broke-the-web/)
 - [Building a Digital Garden](https://tomcritchlow.com/2019/02/17/building-digital-garden/)
 - [Tools and Resources](https://github.com/MaggieAppleton/digital-gardeners)
 

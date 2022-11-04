@@ -12,6 +12,6 @@ The posts in here aren't fully baked -- I like the term working notes that I hav
 
 What's the best way to navigate this space then, you ask? Well, there's none. You are free to poke around, get a peek at what am working on or busy with. But you can start with [[my first note]] that captures my struggles as I began this journey or my notes on this [[digital garden setup]]. From there, you can click on anything that you find interesting.
 
-Another good place to start is [[What's top on my mind]].
+Another good place to start is to find out [[What's top on my mind]].
 
 My idea is to create, have fun, and learn new something every day! ✌🏽

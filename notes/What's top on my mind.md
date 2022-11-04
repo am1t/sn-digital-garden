@@ -4,7 +4,7 @@ title: What's top of my mind
 
 # What's top of my mind. Now.
 
-Here are my thoughts log presented as a simple bulleted list and updated frequently, hopefully once a week at the very least. I have learnt from experience that if anything is more complicated, I would be unable to keep up.
+An inspired /now page [originally proposed](https://sivers.org/nowff) by Derek Sivers, this note holds my thoughts log, presented as a simple bulleted list. I intend to update this frequently, hopefully once a week. I have learnt from experience that if anything is more complicated, I would be unable to keep up.
 
 ### What Have I Been Focused on?
 
@@ -14,5 +14,3 @@ Here are my thoughts log presented as a simple bulleted list and updated frequen
 - I am still working from home, but the days look numbered. There is growing discontent among the decision-makers.
 
 **Last Updated** on 3rd November 2022
-
-**Postscript:** This is inspired /now page [originally proposed](https://sivers.org/nowff), by Derek Sivers. Why, you ask? Well, the updates I write as posts are fleeting. This [place holds](http://nownownow.com/about) what I am currently focused on.
