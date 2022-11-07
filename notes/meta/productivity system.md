@@ -13,6 +13,6 @@ A work in progress currently. I am still working on puting a process in place. O
 Usually, I would need a notebook/notes, calendar and todo apps and cloud storage. Currently, here's what I am looking at.
 
 - Tick Tick for managing my task.
-	- Notion to manage all the types of notes online
+- Notion to manage all the types of notes online
 - Obsidian to convert them into deeper thoughts and references 
 
