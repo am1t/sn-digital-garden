@@ -13,8 +13,8 @@ The posts in here aren't fully baked -- I like the term working notes that I hav
 What's the best way to navigate this space then, you ask? Well, there's none. You are free to poke around, get a peek at what am working on or busy with. But you can start with [[my first note]] that captures my struggles as I began this journey or my notes on this [[digital garden setup]]. From there, you can click on anything that you find interesting. Here's an index of sorts for the things I keeping updated currently. 
 
 - [[What's top on my mind]]
-- [[My Book Notes|My Book Notes]]
-- [[Notes on Dev Projects|Notes on Dev Projects]]
-- [[Some Inspiring Quotes|Some Inspiring Quotes]]
+- [[My Book Notes]]
+- [[Notes on Dev Projects]]
+- [[Some Inspiring Quotes]]
 
 My idea is to create, have fun, and learn new something every day! ✌🏽
