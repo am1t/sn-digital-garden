@@ -71,3 +71,31 @@ A friendly reminder by Gary Provost to all writers. Original inspiration from [t
 
 > Sharpen a verb’s meaning by being precise. Turn look into stare, gaze, peer, peek, or gawk. Turn throw into toss, flip, or hurl. ([Location 1041](https://readwise.io/to_kindle?action=open&asin=B07H1V584S&location=1041))
 
+## New highlights added November 21, 2022 at 1:16 AM
+> Be on the lookout for adjectives that are doing work that could be done by the noun. ([Location 1061](https://readwise.io/to_kindle?action=open&asin=B07H1V584S&location=1061))
+
+> Write clearly and conversationally, and strive always to present in your writing some honest picture of who you are. ([Location 1224](https://readwise.io/to_kindle?action=open&asin=B07H1V584S&location=1224))
+
+## New highlights added November 25, 2022 at 2:34 AM
+> Don’t write about the new bookkeeping system. Write about how the new bookkeeping system will affect people. ([Location 1242](https://readwise.io/to_kindle?action=open&asin=B07H1V584S&location=1242))
+
+> I don’t care if the reader agrees with my opinion. The important thing is that he or she respond to it. If you can stir your reader up, then your writing has achieved some success. ([Location 1266](https://readwise.io/to_kindle?action=open&asin=B07H1V584S&location=1266))
+
+> Use was when you’re talking about a fact or possible fact: “If he was afraid, I couldn’t tell” (I don’t know if he was afraid or not) and were when there is no possibility of fact (Beyoncé sings “If I Were a Boy” because she is not a boy). ([Location 1535](https://readwise.io/to_kindle?action=open&asin=B07H1V584S&location=1535))
+
+> The point is that it’s bad grammar today, but it might be good grammar ten years from now. Today’s rules have no better shot at immortality than thee and thou had. ([Location 1568](https://readwise.io/to_kindle?action=open&asin=B07H1V584S&location=1568))
+
+> Keep in mind that good grammar, even perfect grammar, does not guarantee good writing any more than a good referee guarantees a good basketball game. ([Location 1570](https://readwise.io/to_kindle?action=open&asin=B07H1V584S&location=1570))
+
+> There is nothing virtuous about good grammar that does not work. Your goal is good writing. Good grammar is only one of the tools you use to achieve it. ([Location 1591](https://readwise.io/to_kindle?action=open&asin=B07H1V584S&location=1591))
+
+> When your ear fails you and you can’t decide whether to add that comma, DON’T. ([Location 1628](https://readwise.io/to_kindle?action=open&asin=B07H1V584S&location=1628))
+
+> The last word on this matter belongs to John Barrymore. He said, “A footnote in a book is like a knock on the door downstairs while you are on your honeymoon.” ([Location 1840](https://readwise.io/to_kindle?action=open&asin=B07H1V584S&location=1840))
+
+> You should be willing to put yourself into what you write. ([Location 1867](https://readwise.io/to_kindle?action=open&asin=B07H1V584S&location=1867))
+
+> Readers expect writers to be honest. Don’t let them down. ([Location 1930](https://readwise.io/to_kindle?action=open&asin=B07H1V584S&location=1930))
+
+> A word is unnecessary if it’s doing no work, if it’s doing work that doesn’t have to be done, or if it’s doing work that’s being done by another word or phrase nearby. ([Location 1987](https://readwise.io/to_kindle?action=open&asin=B07H1V584S&location=1987))
+
