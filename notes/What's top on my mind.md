@@ -8,7 +8,7 @@ An inspired /now page [originally proposed](https://sivers.org/nowff) by Derek 
 
 ### What Have I Been Focused on?
 
-- Load the wiki with my [[book-notes]] and a few other thoughts on articles. Some may not be directly linked, but available through search.
+- Load the wiki with my [[My Book Notes]] and a few other thoughts on articles. Some may not be directly linked, but available through search.
 - Curbing my excitement for digital sketchnotes. Trying to convince self that I do not have time for this.
 - A [lot of](https://www.amitgawande.com/2022/10/16/anatole-a-twocolumn.html) [dev projects](https://www.amitgawande.com/2022/10/20/since-i-moved.html). Currently, cultivating my [[digital garden]]. I am moving my notes from all the places into a single location. Both at work and off work. The small wins help.
 - Build my [[productivity system]]. As much as the p-word is hated, I need a process to manage the sheer amount of tasks vying for my attention.
