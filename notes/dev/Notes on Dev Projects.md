@@ -7,4 +7,3 @@ title: Index page for Dev
 - My [[experiments with ruby]]
 - [[Gatsby Experiment on Linux]]
 - [[Web development]]
-- 
