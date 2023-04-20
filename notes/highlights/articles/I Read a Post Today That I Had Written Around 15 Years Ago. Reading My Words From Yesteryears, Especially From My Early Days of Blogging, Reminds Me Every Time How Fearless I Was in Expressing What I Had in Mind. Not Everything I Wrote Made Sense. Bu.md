@@ -1,7 +1,8 @@
 ---
 title: I Read a Post Today That I Had Written Around 15 Years Ago.
 ---
-# I Read a Post Today That I Had Written Around 15 Years Ago. Reading My Words From Yesteryears, Especially From My Early Days of Blogging, Reminds Me Every Time How Fearless I Was in Expressing What I Had in Mind. Not Everything I Wrote Made Sense. But It Wasn't Bogged Down by a Fear of Correctness.
+
+# I Read a Post Today That I Had Written Around 15 Years Ago.
 
 ![rw-book-cover](https://cdn.writeas.net/img/w-sq-light.png)
 
