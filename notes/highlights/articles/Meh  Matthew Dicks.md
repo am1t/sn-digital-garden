@@ -1,5 +1,5 @@
 ---
-title: Meh | Matthew Dicks
+title: Meh
 ---
 # Meh | Matthew Dicks
 

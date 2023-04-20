@@ -1,5 +1,5 @@
 ---
-title: Success Is a Lagging Indicator #
+title: Success Is a Lagging Indicator
 ---
 # Success Is a Lagging Indicator #
 

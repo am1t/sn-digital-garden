@@ -1,5 +1,5 @@
 ---
-title: William Shatner: My Trip to Space Filled Me With ‘Overwhelming Sadness’
+title: My Trip to Space Filled Me With ‘Overwhelming Sadness’
 ---
 # William Shatner: My Trip to Space Filled Me With ‘Overwhelming Sadness’
 

@@ -1,5 +1,5 @@
 ---
-title: Sometimes, All That Matters Is to Hit That Publish Button. Do Not Worry About Whether the Subject Makes Sense. Or Whether the Way It Is Written Does.
+title: Sometimes, All That Matters Is to Hit That Publish Button
 ---
 # Sometimes, All That Matters Is to Hit That Publish Button. Do Not Worry About Whether the Subject Makes Sense. Or Whether the Way It Is Written Does.
 
