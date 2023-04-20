@@ -1,5 +1,5 @@
 ---
-title: How to Think Better: The Skill You’ve Never Been Taught
+title: How to Think Better
 ---
 # How to Think Better: The Skill You’ve Never Been Taught
 

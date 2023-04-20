@@ -13,6 +13,8 @@ I recently [thought](https://log.amitg.net/#p2) I needed to relook at my website
 - Index of favourite posts on the home page
 - Specific pages with manual selection of posts (for example, fiction).
 - Prominent search and random post option. Possibly in footer.
+- IndieWeb Enabled
+- Low footprint and fast loading
 
 ## Status
 Here's the list of things I have already achieved.
