@@ -16,3 +16,6 @@ title: Harry Potter
 ## New highlights added February 23, 2023 at 11:06 AM
 > little blighters they can be!’ The pixies were electric blue and about eight inches ([Location 5062](https://readwise.io/to_kindle?action=open&asin=B01B3DKROQ&location=5062))
 
+## New highlights added March 16, 2023 at 5:07 AM
+> Harry and Ron shook their heads, both staring at Hermione. ‘I will escort you back to Gryffindor Tower,’ said Professor McGonagall heavily. ([Location 6958](https://readwise.io/to_kindle?action=open&asin=B01B3DKROQ&location=6958))
+
