@@ -1,7 +1,7 @@
 ---
 title: Sometimes, All That Matters Is to Hit That Publish Button
 ---
-# Sometimes, All That Matters Is to Hit That Publish Button. Do Not Worry About Whether the Subject Makes Sense. Or Whether the Way It Is Written Does.
+# Sometimes, All That Matters Is to Hit That Publish Button.
 
 ![rw-book-cover](https://cdn.writeas.net/img/w-sq-light.png)
 

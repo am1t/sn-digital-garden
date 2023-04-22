@@ -1,7 +1,7 @@
 ---
 title: Today Got as Frustrating as the Working Days Can Get
 ---
-# Today Got as Frustrating as the Working Days Can Get, Shaking My Confidence in My Capabilities to the Core. As I Signed Off for the Day, I Was Left Numb.
+# Today Got as Frustrating as the Working Days Can Get
 
 ![rw-book-cover](https://cdn.writeas.net/img/w-sq-light.png)
 
