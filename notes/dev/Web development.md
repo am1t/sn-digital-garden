@@ -8,6 +8,12 @@ Here are few of the top frameworks to get started with for web development. Each
 
 I am weak in developing end to end application. I can do it, I have done it a lot of times before. Both as hobby projects and as a professional. But I am primarily a backend developer. That is what I enjoy. But I have realised I need to know bare knowledge of full stack to publish anything I work on.
 
+## References
+1. [Website Best Practices](https://brntn.me/blog/website-best-practices/)
+2. [CSS Patterns](https://css-pattern.com/)
+
+# Language / Frameworks
+
 I want to learn a language and a framework that allows to do that. I know a few ways to do it. But I want to explore more. Here are some of the popular options.
 
 **Sources**
