@@ -18,3 +18,8 @@ What's the best way to navigate this space then, you ask? Well, there's none. Yo
 - [[Some Inspiring Quotes]]
 
 My idea is to create, have fun, and learn new something every day! ✌🏽
+
+## Recent Journal Entries
+
+- [[28 Jul 2024]]
+- [[21 Jul 2024]]
